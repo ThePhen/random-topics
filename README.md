@@ -1,4 +1,5 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/thephen/random-topics)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/thephen/random-topics) ![GitHub last commit](https://img.shields.io/github/last-commit/thephen/random-topics)
+
 
 # Amigos Topics
 

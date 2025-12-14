@@ -7,7 +7,7 @@
 	- Stephen has this to chat about (in any order):
 		- [Bazel](https://bazel.build/), builds in the real world and OSS
 		- *Co-moodling!* and visible architecture ala DNC, BD/SI/UI/DB, etc
-		- [Xtext](https://eclipse.dev/Xtext/), [ANTLR](https://www.antlr.org/), [graphviz/dot](https://graphviz.org/)
+		- [Xtext](https://eclipse.dev/Xtext/), [ANTLR](https://www.antlr.org/), [graphviz/dot](https://graphviz.org/) and could-be [IR (intermediate representation)]([🔥](https://en.wikipedia.org/wiki/Intermediate_representation)) hotness 🔥🔥🔥
 		- my beloved *Timeline App* idea
 		- my *Trivia Together* portfolio piece (and mining something for knowledge and fun)
 		- [AOC'25](https://adventofcode.com/) is not [AOC](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)

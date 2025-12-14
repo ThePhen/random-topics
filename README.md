@@ -6,7 +6,7 @@
 - Around the table, everyone bring whatever
 	- Stephen has this to chat about (in any order):
 		- [Bazel](https://bazel.build/), builds in the real world and OSS
-		- *[Co-moodling]([url](https://www.godaddy.com/whois/results.aspx?itc=dlp_domain_whois&domain=comoodle.com+))!* and visible architecture ala DNC, BD/SI/UI/DB, etc
+		- Co-moodling [(hmmm)](https://www.godaddy.com/whois/results.aspx?itc=dlp_domain_whois&domain=comoodle.com+)! and visible architecture ala DNC, BD/SI/UI/DB, etc
 		- [Xtext](https://eclipse.dev/Xtext/), [ANTLR](https://www.antlr.org/), [graphviz/dot](https://graphviz.org/) and could-be [IR (intermediate representation)]([🔥](https://en.wikipedia.org/wiki/Intermediate_representation)) hotness 🔥🔥🔥
 		- my beloved *Timeline App* idea
 		- my *Trivia Together* portfolio piece (and mining something for knowledge and fun)

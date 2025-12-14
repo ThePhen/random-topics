@@ -1,3 +1,5 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/thephen/random-topics)
+
 # Amigos Topics
 
 ## 2025-12-??

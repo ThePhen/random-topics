@@ -11,7 +11,7 @@
 		- [Bazel](https://bazel.build/), builds in the real world and OSS
 		- Co-moodling [(hmmm)](https://www.godaddy.com/whois/results.aspx?itc=dlp_domain_whois&domain=comoodle.com+)! and visible architecture ala DNC, BD/SI/UI/DB, etc
 		- [Xtext](https://eclipse.dev/Xtext/), [ANTLR](https://www.antlr.org/), [graphviz/dot](https://graphviz.org/) and could-be [IR (intermediate representation)]([🔥](https://en.wikipedia.org/wiki/Intermediate_representation)) hotness 🔥🔥🔥
-		- my beloved *Timeline App* idea
+		- my beloved *[Timeline](https://i.pinimg.com/736x/d5/65/bf/d565bfd8ab522110fc97b39737a09c6d.jpg) App* idea
 		- my *Trivia Together* portfolio piece (and mining something for knowledge and fun)
 		- [AOC'25](https://adventofcode.com/) is not [AOC](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)
 		- [Exercism](https://exercism.org/) together, especially something like [this](https://exercism.org/challenges/48in24)
